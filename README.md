@@ -2,9 +2,22 @@
 nodejs-express-sql
 
 
-Références : 
+### Références : 
 
 * sql.sh : http://sql.sh/
 * workbench
 * posgresql
-* postico (
+* postico
+
+### Lire : 
+Keywords : data modelling, merise diagram, 
+Mot-clé : modèle de données, diagramme de Merise, 
+
+* http://pise.info/modelisation/index.htm
+
+* ...
+
+
+
+
+
