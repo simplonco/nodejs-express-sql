@@ -27,6 +27,16 @@ nodejs-express-sql
 * https://www.elephantsql.com/
 * https://www.heroku.com/postgres
 
+## culture : 
+
+### SQL vs NOSQL
+
+* https://docs.microsoft.com/fr-fr/azure/documentdb/documentdb-nosql-vs-sql
+
+### Postgresql vs MySQL 
+
+* https://www.2ndquadrant.com/en/postgresql/postgresql-vs-mysql/
+  
 # nodejs - express & prostgresql
 
 ## tutoriaux de base
@@ -37,6 +47,11 @@ nodejs-express-sql
 * https://www.wlaurance.com/2016/09/node.js-postgresql-transactions-and-query-examples/ (!!! attention exemple complexe n'utilsant pas express mais il est bien documenté alors je le rajoute)
 
 ## tutoriaux avec sequelize (ORM)
+
+* http://docs.sequelizejs.com/en/v3/docs/getting-started/ (Official)
+* https://www.codementor.io/hari577/object-relational-mapping-in-nodejs-with-sequelize-du1088h3l
+* http://kerryritter.com/getting-started-with-sequelize-postgres-and-express/
+* http://mgritts.com/up-and-running-sequelize/
 
 ### qu'est ce qu'un ORM ?
 
