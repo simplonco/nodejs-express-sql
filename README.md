@@ -3,31 +3,31 @@ nodejs-express-sql
 
 # Postgresql 
 
-## install
+## Installation
 
 * https://www.postgresql.org/
 * macosx : http://postgresapp.com/
 * Linux / debian : https://wiki.debian.org/PostgreSql#Installation
 
 
-## documentation : 
+## Documentation : 
 
 * http://docs.postgresql.fr/9.6/
 * https://www.postgresql.org/docs/9.6/static/index.html
 * http://sql.sh/
 * https://www.grafikart.fr/forum/topics/24324
 
-## outils de dev :
+## Outils de dev :
 
 * pgadmin
 * postico
 
-## platformes d'hebergement
+## Platformes d'hebergement
 
 * https://www.elephantsql.com/
 * https://www.heroku.com/postgres
 
-## culture : 
+## Culture : 
 
 ### SQL vs NOSQL
 
@@ -37,28 +37,28 @@ nodejs-express-sql
 
 * https://www.2ndquadrant.com/en/postgresql/postgresql-vs-mysql/
   
-# nodejs - express & prostgresql
+# Nodejs - express & postgresql
 
-## tutoriaux de base
+## Tutoriaux de base
 
 * https://blog.risingstack.com/node-js-database-tutorial/ (le plus simple)
 * https://github.com/brianc/node-postgres
 * https://www.packtpub.com/books/content/how-setup-postgresql-nodejs
 * https://www.wlaurance.com/2016/09/node.js-postgresql-transactions-and-query-examples/ (!!! attention exemple complexe n'utilsant pas express mais il est bien documenté alors je le rajoute)
 
-## tutoriaux avec sequelize (ORM)
+## Tutoriaux avec sequelize (ORM)
 
 * http://docs.sequelizejs.com/en/v3/docs/getting-started/ (Official)
 * https://www.codementor.io/hari577/object-relational-mapping-in-nodejs-with-sequelize-du1088h3l
 * http://kerryritter.com/getting-started-with-sequelize-postgres-and-express/
 * http://mgritts.com/up-and-running-sequelize/
 
-### qu'est ce qu'un ORM ?
+### Qu'est ce qu'un ORM ?
 
 Un ORM se positionne entre l'application server et la base de données. Elle permet d'echanger avec un base de données sans en connaitre les subtilités et le language de requête. Un ORM permet aussi de manipuler les données en mémoire (sans avoir à écrire cxonstament dans la base).
 * https://fr.wikipedia.org/wiki/Mapping_objet-relationnel
 
-### les tutos sympas :
+### Les tutos sympas :
 
 * https://www.codementor.io/hari577/object-relational-mapping-in-nodejs-with-sequelize-du1088h3l
 * http://kerryritter.com/getting-started-with-sequelize-postgres-and-express/
