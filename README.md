@@ -55,7 +55,7 @@ nodejs-express-sql
 
 ### Qu'est ce qu'un ORM ?
 
-Un ORM se positionne entre l'application server et la base de données. Elle permet d'echanger avec un base de données sans en connaitre les subtilités et le language de requête. Un ORM permet aussi de manipuler les données en mémoire (sans avoir à écrire cxonstament dans la base).
+Un ORM se positionne entre l'application server et la base de données. Elle permet d'echanger avec une base de données sans en connaitre les subtilités et le language de requête. Un ORM permet aussi de manipuler les données en mémoire (sans avoir à écrire constament dans la base).
 * https://fr.wikipedia.org/wiki/Mapping_objet-relationnel
 
 ### Les tutos sympas :
